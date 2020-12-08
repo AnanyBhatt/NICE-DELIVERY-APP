@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nice- Customer</string>
+
+    <string name="facebook_app_id">715633992400687</string>
+    <string name="fb_login_protocol_scheme">fb715633992400687</string>
+
+<!--    <string name="facebook_app_id">653694531938406</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb653694531938406</string>-->
+
+
+    <!-- FCM channel id -->
+    <string name="default_notification_channel_id">NiceCustomerAppChannel</string>
+</resources>

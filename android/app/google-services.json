@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671125817381",
+    "firebase_url": "https://nice-customer-app.firebaseio.com",
+    "project_id": "nice-customer-app",
+    "storage_bucket": "nice-customer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671125817381:android:37f624cda2f40c4bd417cc",
+        "android_client_info": {
+          "package_name": "com.kody.nice_customer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671125817381-vd8veqdui8kv33amsbtf1pdtnjtjkkam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDipIhBSoUaQLNxexxC3rpOG-8zL1G8GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671125817381-vd8veqdui8kv33amsbtf1pdtnjtjkkam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
